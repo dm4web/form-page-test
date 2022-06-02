@@ -1,0 +1,6 @@
+parameters:
+    mailer_host: smtp.gmail.com
+    mailer_user: test@test.com
+    mailer_password: test
+    mailer_port: 465
+    mailer_from: test@test.com
